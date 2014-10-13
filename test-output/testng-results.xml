@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+    <line>
+      <![CDATA[
+
+********Landing Page Links testing Project***************
+]]>
+    </line>
+    <line>
+      <![CDATA[
+************************************************************]]>
+    </line>
+    <line>
+      <![CDATA[
+ Total Links on Landing Page = 566
+]]>
+    </line>
+    <line>
+      <![CDATA[
+ Total Text-based-links on Landing Page = 296
+]]>
+    </line>
+    <line>
+      <![CDATA[US
+Link working	 Link's title : http://www.theguardian.com/us]]>
+    </line>
+    <line>
+      <![CDATA[AU
+Link working	 Link's title : http://www.theguardian.com/au]]>
+    </line>
+    <line>
+      <![CDATA[Sign in
+Link working	 Link's title : http://www.theguardian.com/uk]]>
+    </line>
+    <line>
+      <![CDATA[Beta
+Link working	 Link's title : http://www.theguardian.com/uk?view=mobile#opt-in-message]]>
+    </line>
+    <line>
+      <![CDATA[Subscribe
+Link working	 Link's title : http://subscribe.theguardian.com/?INTCMP=R2_TOPNAV_UK_GU_SUBSCRIBE]]>
+    </line>
+    <line>
+      <![CDATA[
+
+*****Exception encountered; Its Log: 
+[Ljava.lang.StackTraceElement;@21a60a44]]>
+    </line>
+    <line>
+      <![CDATA[
+
+******WebDriver closed successfully********]]>
+    </line>
+    <line>
+      <![CDATA[**********Thanks a lot*************************]]>
+    </line>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="217356" started-at="2014-10-13T10:07:01Z" finished-at="2014-10-13T10:10:38Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="217356" started-at="2014-10-13T10:07:01Z" finished-at="2014-10-13T10:10:38Z">
+      <class name="allLinksTestPackage.AllLinkTestClass">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:allLinksTestPackage.AllLinkTestClass@508b8791]" name="setUp" is-config="true" duration-ms="2046" started-at="2014-10-13T11:07:01Z" finished-at="2014-10-13T11:07:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="AllLinksSmokeTest()[pri:0, instance:allLinksTestPackage.AllLinkTestClass@508b8791]" name="AllLinksSmokeTest" duration-ms="214883" started-at="2014-10-13T11:07:03Z" finished-at="2014-10-13T11:10:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+
+********Landing Page Links testing Project***************
+]]>
+            </line>
+            <line>
+              <![CDATA[
+************************************************************]]>
+            </line>
+            <line>
+              <![CDATA[
+ Total Links on Landing Page = 566
+]]>
+            </line>
+            <line>
+              <![CDATA[
+ Total Text-based-links on Landing Page = 296
+]]>
+            </line>
+            <line>
+              <![CDATA[US
+Link working	 Link's title : http://www.theguardian.com/us]]>
+            </line>
+            <line>
+              <![CDATA[AU
+Link working	 Link's title : http://www.theguardian.com/au]]>
+            </line>
+            <line>
+              <![CDATA[Sign in
+Link working	 Link's title : http://www.theguardian.com/uk]]>
+            </line>
+            <line>
+              <![CDATA[Beta
+Link working	 Link's title : http://www.theguardian.com/uk?view=mobile#opt-in-message]]>
+            </line>
+            <line>
+              <![CDATA[Subscribe
+Link working	 Link's title : http://subscribe.theguardian.com/?INTCMP=R2_TOPNAV_UK_GU_SUBSCRIBE]]>
+            </line>
+            <line>
+              <![CDATA[
+
+*****Exception encountered; Its Log: 
+[Ljava.lang.StackTraceElement;@21a60a44]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AllLinksSmokeTest -->
+        <test-method status="PASS" signature="closure()[pri:0, instance:allLinksTestPackage.AllLinkTestClass@508b8791]" name="closure" is-config="true" duration-ms="417" started-at="2014-10-13T11:10:37Z" finished-at="2014-10-13T11:10:38Z">
+          <reporter-output>
+            <line>
+              <![CDATA[
+
+******WebDriver closed successfully********]]>
+            </line>
+            <line>
+              <![CDATA[**********Thanks a lot*************************]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- closure -->
+      </class> <!-- allLinksTestPackage.AllLinkTestClass -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
